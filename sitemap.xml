@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://kacco.github.io/apo/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://apo.pages.dev/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://kacco.github.io/apo/</loc>
+<loc>https://apo.pages.dev/</loc>
 </url>
 <url>
-<loc>https://kacco.github.io/apo/mol-schauen-obs-funkt.html</loc>
-<lastmod>2021-04-29T18:13:10+02:00</lastmod>
+<loc>https://apo.pages.dev/mol-schauen-obs-funkt.html</loc>
+<lastmod>2021-04-29T18:25:46+02:00</lastmod>
+<image:image>
+<image:loc>https://apo.pages.dev/media\posts\2/20190303_144432.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://apo.pages.dev/media\posts\2/20190303_125926.jpg</image:loc>
+<image:title><![CDATA[maxo]]></image:title>
+</image:image>
 </url>
 </urlset>

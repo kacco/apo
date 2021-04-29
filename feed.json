@@ -2,26 +2,27 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "ApoUlten",
     "description": "",
-    "home_page_url": "https://kacco.github.io/apo",
-    "feed_url": "https://kacco.github.io/apo/feed.json",
+    "home_page_url": "https://apo.pages.dev",
+    "feed_url": "https://apo.pages.dev/feed.json",
     "user_comment": "",
     "author": {
         "name": "Karl"
     },
     "items": [
         {
-            "id": "https://kacco.github.io/apo/mol-schauen-obs-funkt.html",
-            "url": "https://kacco.github.io/apo/mol-schauen-obs-funkt.html",
+            "id": "https://apo.pages.dev/mol-schauen-obs-funkt.html",
+            "url": "https://apo.pages.dev/mol-schauen-obs-funkt.html",
             "title": "Mol schauen obs funkt",
-            "summary": "Hallo ich bin da",
-            "content_html": "Hallo ich bin da",
+            "summary": "Hallo ich bin da ",
+            "content_html": "<p>Hallo ich bin da</p>\n<p><img class=\"post__image\" src=\"https://apo.pages.dev/media/posts/2/20190303_125926.jpg\" alt=\"maxo\" width=\"4032\" height=\"3024\"></p>",
+            "image": "https://apo.pages.dev/media/posts/2/20190303_144432.jpg",
             "author": {
                 "name": "Karl"
             },
             "tags": [
             ],
             "date_published": "2021-04-29T18:13:10+02:00",
-            "date_modified": "2021-04-29T18:13:10+02:00"
+            "date_modified": "2021-04-29T18:25:46+02:00"
         }
     ]
 }
