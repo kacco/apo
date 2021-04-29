@@ -3,29 +3,29 @@
     <title>ApoUlten</title>
     <link href="https://kacco.github.io/apo/feed.xml" rel="self" />
     <link href="https://kacco.github.io/apo" />
-    <updated>2021-04-29T18:03:47+02:00</updated>
+    <updated>2021-04-29T18:19:06+02:00</updated>
     <author>
         <name>Karl</name>
     </author>
     <id>https://kacco.github.io/apo</id>
 
     <entry>
-        <title>Soll Amazon mehr verdienen oder in Ultner gholfen werden?</title>
+        <title>Mol schauen obs funkt</title>
         <author>
             <name>Karl</name>
         </author>
-        <link href="https://kacco.github.io/apo/soll-amazon-mehr-verdienen-oder-in-ultner-gholfen-werden.html"/>
-        <id>https://kacco.github.io/apo/soll-amazon-mehr-verdienen-oder-in-ultner-gholfen-werden.html</id>
+        <link href="https://kacco.github.io/apo/mol-schauen-obs-funkt.html"/>
+        <id>https://kacco.github.io/apo/mol-schauen-obs-funkt.html</id>
 
-        <updated>2021-04-29T12:46:27+02:00</updated>
+        <updated>2021-04-29T18:13:10+02:00</updated>
             <summary>
                 <![CDATA[
-                    [{"id":1619693165524,"type":"publii-list","content":"malschauenob ees&nbsp;funktioniert","config":{"listType":"ul","advanced":{"cssClasses":"","id":""}}},{"id":1619693182542,"type":"publii-image","content":{"image":"","imageHeight":"","imageWidth":"","alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1619693184642,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+                    Hallo ich bin da
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                [{"id":1619693165524,"type":"publii-list","content":"<li>mal</li><li>schauen</li><li>ob e</li><li>es&nbsp;</li><li>funktioniert</li>","config":{"listType":"ul","advanced":{"cssClasses":"","id":""}}},{"id":1619693182542,"type":"publii-image","content":{"image":"","imageHeight":"","imageWidth":"","alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1619693184642,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+                Hallo ich bin da
             ]]>
         </content>
     </entry>
