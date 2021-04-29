@@ -3,7 +3,7 @@
     <title>ApoUlten</title>
     <link href="/feed.xml" rel="self" />
     <link href="" />
-    <updated>2021-04-29T18:56:25+02:00</updated>
+    <updated>2021-04-29T19:02:27+02:00</updated>
     <author>
         <name>Karl</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="/mol-schauen-obs-funkt.html"/>
         <id>/mol-schauen-obs-funkt.html</id>
 
-        <updated>2021-04-29T18:55:54+02:00</updated>
+        <updated>2021-04-29T19:02:08+02:00</updated>
             <summary>
                 <![CDATA[
                     Hallo ich bin da 
@@ -26,7 +26,8 @@
         <content type="html">
             <![CDATA[
                 <p>Hallo ich bin da</p>
-<p><img class="post__image" src="/media/posts/2/bud_spencer_new-2.jpg" alt="" width="600" height="338"></p>
+<p><a href="google.it"><img src="file:///D|/1092896_20201227_berndgaensbacher-kopie.jpg" alt="gans" width="1440" height="549"></a></p>
+<p> </p>
             ]]>
         </content>
     </entry>
