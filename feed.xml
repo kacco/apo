@@ -3,7 +3,7 @@
     <title>ApoUlten</title>
     <link href="https://apo.pages.dev/feed.xml" rel="self" />
     <link href="https://apo.pages.dev" />
-    <updated>2021-04-29T18:29:53+02:00</updated>
+    <updated>2021-04-29T18:43:18+02:00</updated>
     <author>
         <name>Karl</name>
     </author>
@@ -17,18 +17,16 @@
         <link href="https://apo.pages.dev/mol-schauen-obs-funkt.html"/>
         <id>https://apo.pages.dev/mol-schauen-obs-funkt.html</id>
 
-        <updated>2021-04-29T18:25:46+02:00</updated>
+        <updated>2021-04-29T18:43:02+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://apo.pages.dev/media/posts/2/20190303_144432.jpg" alt="" />
                     Hallo ich bin da 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://apo.pages.dev/media/posts/2/20190303_144432.jpg" alt="" />
                 <p>Hallo ich bin da</p>
-<p><img class="post__image" src="https://apo.pages.dev/media/posts/2/20190303_125926.jpg" alt="maxo" width="4032" height="3024"></p>
+<p><img class="post__image" src="https://apo.pages.dev/media/posts/2/bud_spencer_new-2.jpg" alt="" width="600" height="338"></p>
             ]]>
         </content>
     </entry>
