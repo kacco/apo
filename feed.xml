@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>ApoUlten</title>
-    <link href="https://apo.pages.dev/feed.xml" rel="self" />
-    <link href="https://apo.pages.dev" />
-    <updated>2021-04-29T18:50:40+02:00</updated>
+    <link href="/feed.xml" rel="self" />
+    <link href="" />
+    <updated>2021-04-29T18:56:25+02:00</updated>
     <author>
         <name>Karl</name>
     </author>
-    <id>https://apo.pages.dev</id>
+    <id></id>
 
     <entry>
         <title>Mol schauen obs funkt</title>
         <author>
             <name>Karl</name>
         </author>
-        <link href="https://apo.pages.dev/mol-schauen-obs-funkt.html"/>
-        <id>https://apo.pages.dev/mol-schauen-obs-funkt.html</id>
+        <link href="/mol-schauen-obs-funkt.html"/>
+        <id>/mol-schauen-obs-funkt.html</id>
 
-        <updated>2021-04-29T18:43:02+02:00</updated>
+        <updated>2021-04-29T18:55:54+02:00</updated>
             <summary>
                 <![CDATA[
                     Hallo ich bin da 
@@ -26,7 +26,7 @@
         <content type="html">
             <![CDATA[
                 <p>Hallo ich bin da</p>
-<p><img class="post__image" src="https://apo.pages.dev/media/posts/2/bud_spencer_new-2.jpg" alt="" width="600" height="338"></p>
+<p><img class="post__image" src="/media/posts/2/bud_spencer_new-2.jpg" alt="" width="600" height="338"></p>
             ]]>
         </content>
     </entry>

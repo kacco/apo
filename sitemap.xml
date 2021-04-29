@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://apo.pages.dev/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://apo.pages.dev/</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>https://apo.pages.dev/mol-schauen-obs-funkt.html</loc>
-<lastmod>2021-04-29T18:43:02+02:00</lastmod>
+<loc>/mol-schauen-obs-funkt.html</loc>
+<lastmod>2021-04-29T18:55:54+02:00</lastmod>
 <image:image>
-<image:loc>https://apo.pages.dev/media\posts\2/bud_spencer_new-2.jpg</image:loc>
+<image:loc>/media\posts\2/bud_spencer_new-2.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
