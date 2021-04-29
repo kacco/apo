@@ -2,26 +2,26 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "ApoUlten",
     "description": "",
-    "home_page_url": "",
-    "feed_url": "/feed.json",
+    "home_page_url": "http://apo.pages.dev",
+    "feed_url": "http://apo.pages.dev/feed.json",
     "user_comment": "",
     "author": {
         "name": "Karl"
     },
     "items": [
         {
-            "id": "/mol-schauen-obs-funkt.html",
-            "url": "/mol-schauen-obs-funkt.html",
+            "id": "http://apo.pages.dev/mol-schauen-obs-funkt.html",
+            "url": "http://apo.pages.dev/mol-schauen-obs-funkt.html",
             "title": "Mol schauen obs funkt",
             "summary": "Hallo ich bin da ",
-            "content_html": "<p>Hallo ich bin da</p>\n<p><a href=\"google.it\"><img src=\"file:///D|/1092896_20201227_berndgaensbacher-kopie.jpg\" alt=\"gans\" width=\"1440\" height=\"549\"></a></p>\n<p> </p>",
+            "content_html": "<p>Hallo ich bin da</p>\n<figure class=\"post__image post__image--full\" ><img src=\"http://apo.pages.dev/media/posts/2/latuaroutine.png\" alt=\"routine\" width=\"2864\" height=\"1156\">\n<figcaption >porca troia</figcaption>\n</figure>\n<p> </p>",
             "author": {
                 "name": "Karl"
             },
             "tags": [
             ],
             "date_published": "2021-04-29T18:13:10+02:00",
-            "date_modified": "2021-04-29T19:02:08+02:00"
+            "date_modified": "2021-04-29T19:09:47+02:00"
         }
     ]
 }

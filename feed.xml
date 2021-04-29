@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>ApoUlten</title>
-    <link href="/feed.xml" rel="self" />
-    <link href="" />
-    <updated>2021-04-29T19:02:27+02:00</updated>
+    <link href="http://apo.pages.dev/feed.xml" rel="self" />
+    <link href="http://apo.pages.dev" />
+    <updated>2021-04-29T19:09:51+02:00</updated>
     <author>
         <name>Karl</name>
     </author>
-    <id></id>
+    <id>http://apo.pages.dev</id>
 
     <entry>
         <title>Mol schauen obs funkt</title>
         <author>
             <name>Karl</name>
         </author>
-        <link href="/mol-schauen-obs-funkt.html"/>
-        <id>/mol-schauen-obs-funkt.html</id>
+        <link href="http://apo.pages.dev/mol-schauen-obs-funkt.html"/>
+        <id>http://apo.pages.dev/mol-schauen-obs-funkt.html</id>
 
-        <updated>2021-04-29T19:02:08+02:00</updated>
+        <updated>2021-04-29T19:09:47+02:00</updated>
             <summary>
                 <![CDATA[
                     Hallo ich bin da 
@@ -26,7 +26,9 @@
         <content type="html">
             <![CDATA[
                 <p>Hallo ich bin da</p>
-<p><a href="google.it"><img src="file:///D|/1092896_20201227_berndgaensbacher-kopie.jpg" alt="gans" width="1440" height="549"></a></p>
+<figure class="post__image post__image--full" ><img src="http://apo.pages.dev/media/posts/2/latuaroutine.png" alt="routine" width="2864" height="1156">
+<figcaption >porca troia</figcaption>
+</figure>
 <p> </p>
             ]]>
         </content>

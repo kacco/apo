@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://apo.pages.dev/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>/</loc>
+<loc>http://apo.pages.dev/</loc>
 </url>
 <url>
-<loc>/mol-schauen-obs-funkt.html</loc>
-<lastmod>2021-04-29T19:02:08+02:00</lastmod>
+<loc>http://apo.pages.dev/mol-schauen-obs-funkt.html</loc>
+<lastmod>2021-04-29T19:09:47+02:00</lastmod>
 <image:image>
-<image:loc>file:///D|/1092896_20201227_berndgaensbacher-kopie.jpg</image:loc>
-<image:title><![CDATA[gans]]></image:title>
+<image:loc>http://apo.pages.dev/media\posts\2/latuaroutine.png</image:loc>
+<image:title><![CDATA[routine]]></image:title>
 </image:image>
 </url>
 </urlset>
