@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "ApoUlten",
     "description": "",
-    "home_page_url": "http://apo.pages.dev",
-    "feed_url": "http://apo.pages.dev/feed.json",
+    "home_page_url": "https://kacco.github.io/apo",
+    "feed_url": "https://kacco.github.io/apo/feed.json",
     "user_comment": "",
     "author": {
         "name": "Karl"
     },
     "items": [
         {
-            "id": "http://apo.pages.dev/mol-schauen-obs-funkt.html",
-            "url": "http://apo.pages.dev/mol-schauen-obs-funkt.html",
+            "id": "https://kacco.github.io/apo/mol-schauen-obs-funkt.html",
+            "url": "https://kacco.github.io/apo/mol-schauen-obs-funkt.html",
             "title": "Mol schauen obs funkt",
             "summary": "Hallo ich bin da ",
-            "content_html": "<p>Hallo ich bin da</p>\n<figure class=\"post__image post__image--full\" ><img src=\"http://apo.pages.dev/media/posts/2/latuaroutine.png\" alt=\"routine\" width=\"2864\" height=\"1156\">\n<figcaption >porca troia</figcaption>\n</figure>\n<p> </p>",
+            "content_html": "<p>Hallo ich bin da</p>\n<figure class=\"post__image post__image--full\" ><img src=\"https://kacco.github.io/apo/media/posts/2/latuaroutine.png\" alt=\"routine\" width=\"2864\" height=\"1156\">\n<figcaption >porca troia</figcaption>\n</figure>\n<p> </p>",
             "author": {
                 "name": "Karl"
             },
