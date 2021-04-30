@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://kacco.github.io/apo/buddy-rulers-the-world.html",
+            "url": "https://kacco.github.io/apo/buddy-rulers-the-world.html",
+            "title": "Buddy rulers the world",
+            "summary": "Put your caption here",
+            "content_html": "<figure class=\"post__image post__image--full\" ><img src=\"https://kacco.github.io/apo/media/posts/3/bud_spencer_new-2.jpg\" alt=\"spencer\" width=\"600\" height=\"338\">\n<figcaption >Put your caption here</figcaption>\n</figure>",
+            "author": {
+                "name": "Karl"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-30T12:08:19+02:00",
+            "date_modified": "2021-04-30T12:08:19+02:00"
+        },
+        {
             "id": "https://kacco.github.io/apo/mol-schauen-obs-funkt.html",
             "url": "https://kacco.github.io/apo/mol-schauen-obs-funkt.html",
             "title": "Mol schauen obs funkt",
